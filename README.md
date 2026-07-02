@@ -1,4 +1,4 @@
-# synthetic-hfus-skinlayer-segmentation
+# synthetic-hfus-skin-layer-segmentation
 
 Synthetic-to-real HFUS epidermis/SLEB segmentation ablation code.
 
