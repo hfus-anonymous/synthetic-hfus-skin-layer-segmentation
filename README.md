@@ -8,7 +8,7 @@ This repository contains the final model-specific learning-rate experiment proto
 
 ```bash
 git clone https://github.com/hfus-anonymous/synthetic-hfus-skin-layer-segmentation.git
-cd synthetic-hfus-skinlayer-segmentation
+cd synthetic-hfus-skin-layer-segmentation
 ```
 
 ## 2. Create the Python environment
