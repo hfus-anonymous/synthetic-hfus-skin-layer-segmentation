@@ -199,6 +199,16 @@ Save ROI/prediction visualizations:
 python code/run_experiments.py --device cuda --amp --save_visuals
 ```
 
+## Data Availability
+
+The original full dataset is not included in this anonymized repository due to data usage and privacy restrictions. Instead, this repository provides the source code and a compact sample dataset of 100 images to support code inspection and pipeline verification.
+
+The sample dataset is provided only for demonstrating the repository-local data structure, preprocessing flow, and execution pipeline. Because it is a reduced sample rather than the complete original dataset, the reproduced training results may differ from the full-dataset results reported in the paper.
+
+## Anonymity Note
+
+This repository has been anonymized for double-blind review. Author names, affiliations, institutional identifiers, and personal account information are intentionally omitted during the review period.
+
 ## Notes
 
 - All default paths are repository-relative.
