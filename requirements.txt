@@ -1,0 +1,13 @@
+numpy
+pandas
+opencv-python
+pillow
+scikit-learn
+tqdm
+matplotlib
+tabulate
+torch
+torchvision
+segmentation-models-pytorch
+timm
+transformers
