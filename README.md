@@ -26,7 +26,7 @@ CUDA is recommended for the full experiment.
 Download `data.zip` from Google Drive:
 
 ```text
-REPLACE_WITH_GOOGLE_DRIVE_DATA_ZIP_URL
+https://drive.google.com/uc?export=download&id=1AbCdEfGhIjKlMnOp
 ```
 
 The zip should contain the repository `data/` folder. After extraction, the repository should look like this:
