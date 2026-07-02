@@ -9,7 +9,6 @@ data/
 ├── Mendeley/
 │   ├── images/
 │   ├── masks/
-│   └── model/        # optional; not used by the PyTorch ablation
 ├── synthetic_sample/
 │   ├── images/
 │   ├── masks/
