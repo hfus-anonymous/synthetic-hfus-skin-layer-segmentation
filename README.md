@@ -85,6 +85,18 @@ It does not access any external or developer-specific path. Expected result:
 [DONE] data/synthetic_sample is ready for run_experiments.py.
 ```
 
+### Example downloaded samples
+
+The downloaded sample data include both real HFUS images and synthetic HFUS images. The examples below show a representative Mendeley HFUS image and a representative synthetic HFUS image with their corresponding masks.
+
+| Mendeley 168AD.png | Mendeley epidermis/SLEB mask |
+|---|---|
+| <img src="assets/readme/mendeley_168AD.png" width="360"> | <img src="assets/readme/mendeley_168AD_mask.png" width="360"> |
+
+| Synthetic image | Synthetic layer mask |
+|---|---|
+| <img src="assets/readme/synthetic_image.png" width="360"> | <img src="assets/readme/synthetic_mask.png" width="360"> |
+
 ## 5. Run the final segmentation ablation
 
 Run all 8 experiments:
