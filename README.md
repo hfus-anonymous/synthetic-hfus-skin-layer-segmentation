@@ -7,7 +7,7 @@ This repository contains the final model-specific learning-rate experiment proto
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/Finn-02/synthetic-hfus-skinlayer-segmentation.git
+git clone https://github.com/hfus-anonymous/synthetic-hfus-skin-layer-segmentation.git
 cd synthetic-hfus-skinlayer-segmentation
 ```
 
@@ -38,7 +38,6 @@ synthetic-hfus-skinlayer-segmentation/
 │   ├── Mendeley/
 │   │   ├── images/
 │   │   ├── masks/
-│   │   └── model/        # optional; not used by the PyTorch ablation
 │   ├── synthetic_sample/
 │   │   ├── images/
 │   │   ├── masks/
