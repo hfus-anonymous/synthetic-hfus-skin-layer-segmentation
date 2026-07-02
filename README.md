@@ -32,7 +32,7 @@ https://drive.google.com/uc?export=download&id=1fIulaT48gtsr8skzWfKmdfj_V6nARAaj
 The zip should contain the repository `data/` folder. After extraction, the repository should look like this:
 
 ```text
-synthetic-hfus-skinlayer-segmentation/
+synthetic-hfus-skin-layer-segmentation/
 ├── code/
 ├── data/
 │   ├── Mendeley/
